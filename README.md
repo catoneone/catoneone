@@ -1,11 +1,10 @@
 # Allan Wang
 
-At Affine, I contribute to open reasoning and the infrastructure for evaluating AI models.
+I work on AI reasoning, evaluation, and the systems that support them.
 
-## Selected work
+## Work at Affine
 
-- **[Affine](https://github.com/AffineIO/affine-cortex)** — An incentivized reinforcement learning environment for improving reasoning models.
-- **[Affinetes](https://github.com/AffineIO/affinetes)** — A Python framework for defining, deploying, and running containerized environments.
+At Affine, my work has included model evaluation, scoring mechanisms, and infrastructure for running evaluation environments. I am interested in how we build reliable signals of model capability and turn them into useful training feedback.
 
 ## Notes & ideas
 
