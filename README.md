@@ -8,4 +8,4 @@ At Affine, my work has included model evaluation, scoring mechanisms, and infras
 
 ## Notes & ideas
 
-I share paper notes, experiments, and research questions on **[X](https://x.com/allwzzz)**.
+Paper notes, experiments, and open questions on reasoning, agents, and evaluation.
